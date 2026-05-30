@@ -15,38 +15,20 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```python
-class Jayavandhini:
-    def __init__(self):
-        self.name        = "Jayavandhini M K"
-        self.location    = "Chennai, Tamil Nadu, India"
-        self.degree      = "B.Tech Information Technology (2024–2028)"
-        self.college     = "St. Joseph's Institute of Technology"
-        self.cgpa        = 9.08
+👋 Hi! I'm **Jayavandhini M K**, an aspiring IT engineer from **Chennai, Tamil Nadu, India**.
 
-        self.stack = [
-            "Python", "Java", "C",
-            "HTML", "CSS", "JavaScript",
-            "TensorFlow", "Keras", "SQL"
-        ]
+I'm currently pursuing my **B.Tech in Information Technology** at St. Joseph's Institute of Technology (2024–2028) with a CGPA of **9.08**.
 
-        self.currently_learning = [
-            "Deep Learning & CNNs",
-            "Advanced DSA",
-            "React.js",
-            "System Design Basics"
-        ]
-
-        self.fun_fact = "I solved 1500+ problems on Skillrack 🚀"
-
-    def motto(self):
-        return "Code with purpose. Build with passion. ✨"
-
-me = Jayavandhini()
-print(me.motto())
-```
+- 🔭 I'm working on **Machine Learning & Web Development** projects
+- 🌱 I'm currently learning **Deep Learning, React.js & Advanced DSA**
+- 💡 I love solving coding problems — **1500+ on Skillrack** and **100+ on LeetCode**
+- 🏆 Finalist at **INNOVERSE** intra-college project competition
+- ⚡ Participated in **Blaze a Trail 2.0** — a 24-hour internal hackathon
+- 💬 Ask me about **Python, Web Dev, or ML basics**
+- 📫 Reach me at **jayavandhinimk@gmail.com**
+- ✨ Motto: *"Code with purpose. Build with passion."*
 
 <br clear="right"/>
 
