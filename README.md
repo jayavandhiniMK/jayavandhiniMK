@@ -21,12 +21,6 @@
 
 I'm currently pursuing my **B.Tech in Information Technology** at St. Joseph's Institute of Technology (2024–2028) with a CGPA of **9.08**.
 
-- 🔭 I'm working on **Machine Learning & Web Development** projects
-- 🌱 I'm currently learning **Deep Learning, React.js & Advanced DSA**
-- 💡 I love solving coding problems — **1500+ on Skillrack** and **100+ on LeetCode**
-- 🏆 Finalist at **INNOVERSE** intra-college project competition
-- ⚡ Participated in **Blaze a Trail 2.0** — a 24-hour internal hackathon
-- 💬 Ask me about **Python, Web Dev, or ML basics**
 - 📫 Reach me at **jayavandhinimk@gmail.com**
 - ✨ Motto: *"Code with purpose. Build with passion."*
 
@@ -64,26 +58,6 @@ I'm currently pursuing my **B.Tech in Information Technology** at St. Joseph's I
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
----
-
-## 🔥 Streak Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=jayavandhinimk&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://streak-stats.demolab.com?user=jayavandhinimk)
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Jayavandhini's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jayavandhinimk&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/jayavandhinimk)
-
-</div>
 
 ---
 
